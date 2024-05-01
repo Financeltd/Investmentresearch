@@ -1,0 +1,30 @@
+HTTrack3.49-2 launched on Mon, 05 Feb 2024 02:31:49 at https://ifrfund.com/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1OQkQExyW7kh2uVXxpc0x8GaVjAYkfLwi4yAAscSUkyEpaf-QsnPwBoC1RIQAvD_BwE Enter Enter
+(winhttrack https://ifrfund.com/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1OQkQExyW7kh2uVXxpc0x8GaVjAYkfLwi4yAAscSUkyEpaf-QsnPwBoC1RIQAvD_BwE -O "/Users/Dj_Ice-Beatz/Coinshark /Investment" -P Enter:8080 -%v Enter Enter )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:32:56	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link enter/robots.txt (from primary/primary)
+02:32:56	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link enter/ (from primary/primary)
+02:33:40	Error: 	"Not Found" (404) at link https://ifrfund.com/calcpopupstyle.html (from https://ifrfund.com/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1OQkQExyW7kh2uVXxpc0x8GaVjAYkfLwi4yAAscSUkyEpaf-QsnPwBoC1RIQAvD_BwE)
+02:33:40	Error: 	"Not Found" (404) at link https://ifrfund.com/plan-slide.html (from https://ifrfund.com/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1OQkQExyW7kh2uVXxpc0x8GaVjAYkfLwi4yAAscSUkyEpaf-QsnPwBoC1RIQAvD_BwE)
+02:33:52	Error: 	"Not Found" (404) at link https://ifrfund.com/rain.html (from https://ifrfund.com/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1OQkQExyW7kh2uVXxpc0x8GaVjAYkfLwi4yAAscSUkyEpaf-QsnPwBoC1RIQAvD_BwE)
+02:33:52	Error: 	"Not Found" (404) at link https://ifrfund.com/jquery.simplyscroll.css (from https://ifrfund.com/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1OQkQExyW7kh2uVXxpc0x8GaVjAYkfLwi4yAAscSUkyEpaf-QsnPwBoC1RIQAvD_BwE)
+02:33:52	Error: 	"Not Found" (404) at link https://ifrfund.com/ie10-viewport-bug-workaround.html (from https://ifrfund.com/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1OQkQExyW7kh2uVXxpc0x8GaVjAYkfLwi4yAAscSUkyEpaf-QsnPwBoC1RIQAvD_BwE)
+02:34:00	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link enter/ (from primary/primary)
+02:34:00	Error: 	"Not Found" (404) at link https://ifrfund.com/owl.video.play.html (from https://ifrfund.com/owl.carousel.min.css)
+02:34:00	Error: 	"Not Found" (404) at link https://ifrfund.com/indexbc14.html?a=home (from https://ifrfund.com/about)
+02:34:51	Error: 	"Not Found" (404) at link https://ifrfund.com/indexa972.html?a=rules (from https://ifrfund.com/login)
+02:34:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link enter/ (from primary/primary)
+02:35:15	Error: 	"Not Found" (404) at link https://ifrfund.com/assets/images/1506121478.jpg (from https://ifrfund.com/password/reset)
+02:35:15	Error: 	"Not Found" (404) at link https://ifrfund.com/assets/front/img/price-bg.jpg (from https://ifrfund.com/assets/front/css/style.css)
+02:35:15	Error: 	"Not Found" (404) at link https://ifrfund.com/assets/front/img/counter-bg.jpg (from https://ifrfund.com/assets/front/css/style.css)
+02:35:15	Error: 	"Not Found" (404) at link https://ifrfund.com/assets/front/img/testimonial-bg.jpg (from https://ifrfund.com/assets/front/css/style.css)
+02:35:15	Error: 	"Not Found" (404) at link https://ifrfund.com/assets/front/img/pricing-bg.jpg (from https://ifrfund.com/assets/front/css/style.css)
+02:35:15	Error: 	"Not Found" (404) at link https://ifrfund.com/assets/front/img/parallax-bg1.jpg (from https://ifrfund.com/assets/front/css/style.css)
+02:35:15	Error: 	"Not Found" (404) at link https://ifrfund.com/assets/front/img/check.png (from https://ifrfund.com/assets/front/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 26 seconds : 204 links scanned, 184 files written (7590586 bytes overall) [4175214 bytes received at 20268 bytes/sec], 4979257 bytes transferred using HTTP compression in 140 files, ratio 29%, 12.5 requests per connection
+(17 errors, 2 warnings, 0 messages)
